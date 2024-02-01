@@ -1,6 +1,4 @@
 # Mastering Cloudformation and Ansible. 
-- First of all Introduction.
-- Then getting right into it.
 ![Jay](./img.png)
 
 ## What is Ansible
